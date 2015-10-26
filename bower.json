@@ -1,0 +1,14 @@
+{
+  "name": "tessellation-shims",
+  "main": "app-shims.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/atsjj/tessellation-shims",
+  "author": "Steve Jabour <steve@jabour.me>",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "vendor",
+    "test",
+    "tests"
+  ]
+}
